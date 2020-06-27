@@ -44,7 +44,7 @@ education:
 social:
 - icon: linkedin-in
   icon_pack: fab
-  link: www.linkedin.com/in/ziyue-feng
+  link: https://www.linkedin.com/in/ziyue-feng/
 - icon: envelope
   icon_pack: fas
   link: mailto:zfeng@clemson.edu
