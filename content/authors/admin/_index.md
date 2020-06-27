@@ -43,7 +43,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin
-  icon_pack: brand
+  icon_pack: Brand
   link: www.linkedin.com/in/ziyue-feng
 
 # Link to a PDF of your resume/CV from the About widget.
