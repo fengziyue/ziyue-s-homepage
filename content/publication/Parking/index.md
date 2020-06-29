@@ -1,5 +1,5 @@
 ---
-title: Parking
+title: "Parking"
 
 # View.
 #   1 = List
@@ -10,7 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "aaa"
+  caption: ""
   image: ""
 ---
-asfd
