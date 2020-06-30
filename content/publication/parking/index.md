@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Model-based decision making with imagination for autonomous parking"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-06-26"
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+# Authors. Comma separated list, e.g. `["Ziyue Feng", "Shitao Chen", "Yu Chen", "Nanning Zheng"]`.
+authors = ["Ziyue Feng", "Shitao Chen", "Yu Chen", "Nanning Zheng"]
 
 # Publication type.
 # Legend:
@@ -19,12 +19,12 @@ authors = ["First author's name", "Second author's name"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In 2018 IEEE Intelligent Vehicles Symposium"
+publication_short = "In IV2018"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "Improved RRT for autonomous parking motion planning."
+abstract_short = "Improved RRT for autonomous parking motion planning."
 
 # Featured image thumbnail (optional)
 image_preview = ""
