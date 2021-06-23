@@ -25,15 +25,28 @@ date_format = "Jan 2006"
   date_start = "2019-09-05"
   date_end = ""
   description = """
+  * Computer Vision
+  * Autonomous Driving
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "MEGVII(FACE++) Research"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2019-01-01"
+  date_end = "2019-05-01"
+  description = """
+  * Computer Vision
+  * Advance Driving Asistant Systems"""
+
+[[experience]]
+  title = "Research Intern"
+  company = "Institute of Artifitial Intelligence and Robotics(IAIR at XJTU)"
+  company_url = ""
+  date_start = "2016-10-01"
+  date_end = "2019-01-01"
+  description = """
+  * Computer Vision
+  * Motion Planning"""
 
 +++
