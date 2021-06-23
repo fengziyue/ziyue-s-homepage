@@ -31,17 +31,17 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "MEGVII(FACE++) Research"
+  company = "MEGVII (FACE++) Research"
   company_url = ""
   date_start = "2019-01-01"
   date_end = "2019-05-01"
   description = """
   * Computer Vision
-  * Advance Driving Asistant Systems"""
+  * Advanced Driving Asistant Systems"""
 
 [[experience]]
   title = "Research Intern"
-  company = "Institute of Artifitial Intelligence and Robotics(IAIR at XJTU)"
+  company = "Institute of Artifitial Intelligence and Robotics (IAIR at XJTU)"
   company_url = ""
   date_start = "2016-10-01"
   date_end = "2019-01-01"
