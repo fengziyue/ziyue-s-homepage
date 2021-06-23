@@ -9,12 +9,10 @@ title: Ziyue Feng
 role: Ph.D Student
 bio: My research interests include 3D Computer vision, Deep Learning and Autonomous.
 interests:
+  - Depth Estimation
   - 3D Computer vision
   - Deep Learning
   - Autonomous
-  - 3D Segmentation
-  - Localization
-  - GCN
 social:
   - icon: linkedin-in
     icon_pack: fab
@@ -32,13 +30,13 @@ education:
   courses:
     - course: PhD in Computer Vision
       institution: Clemson University
-      year: 2019
+      year: 2019 - Present
     - course: BEng in Computer Science
       institution: Xi'an Jiaotong University
-      year: 2015
+      year: 2015 - 2019
 email: zfeng@clemson.edu
 user_groups:
   - ""
 ---
 
-Ziyue Feng is a Ph.D. student at Clemson University. His research interests include 3D Computer vision, Deep Learning, and Autonomous. He is now focused on 3D Semantic/Instance Segmentation, LIDAR Localization, and Graph Convolution Network.
+Ziyue Feng is a Ph.D. student at Clemson University. His research interests include, 3D Computer vision, Deep Learning, and Autonomous. He is now focused on Depth Estimation and LiDAR Localization.
