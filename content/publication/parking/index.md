@@ -41,11 +41,11 @@ projects = []
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/8500700"
 url_preprint = "https://arxiv.org/abs/2108.11420"
-url_code = ""
+url_code = "https://github.com/fengziyue/RRT-Parking"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=Myhnc_oz-CY"
 url_poster = ""
 url_source = ""
 
