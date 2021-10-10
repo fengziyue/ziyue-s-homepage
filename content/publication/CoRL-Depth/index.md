@@ -41,11 +41,11 @@ projects = []
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/2109.09628.pdf"
 url_preprint = "https://arxiv.org/abs/2109.09628"
-url_code = ""
+url_code = "https://github.com/fengziyue/FusionDepth"
 url_dataset = ""
 url_project = ""
-url_slides = ""
-url_video = ""
+url_slides = "https://docs.google.com/presentation/d/1B-qdfxH7kfr4KfRfNlfx8t9bY3yxLDvm7H_8dwhY1RQ/edit?usp=sharing"
+url_video = "https://www.youtube.com/watch?v=_rY4ytyBQFU"
 url_poster = ""
 url_source = ""
 
