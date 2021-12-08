@@ -8,6 +8,14 @@ title: Publications
 #   4 = Citation
 view: 4
 
+[[filter]]
+  name = "All"
+  tag = "*"
+
+[[filter]]
+  name = "Deep-Learning"
+  tag = "a"
+
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
