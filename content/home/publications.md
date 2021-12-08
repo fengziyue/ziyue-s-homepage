@@ -43,10 +43,19 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-
   [[content.filter_button]]
-    name = "a"
-    tag = "a"
+    name = "Depth Prediction"
+    tag = "depth prediction"
+  [[content.filter_button]]
+    name = "Localization"
+    tag = "localization"
+  [[content.filter_button]]
+    name = "Path Planning"
+    tag = "path planning"
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "deep learning"
+
 
 [design]
   # Toggle between the various page layout types.
