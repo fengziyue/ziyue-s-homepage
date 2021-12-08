@@ -55,7 +55,7 @@ url_source = ""
 
 # Does the content use math formatting?
 math = true
-
+tags = ["a"]
 # Does the content use source code highlighting?
 highlight = true
 
