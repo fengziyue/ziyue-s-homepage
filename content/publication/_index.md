@@ -8,6 +8,7 @@ title: Publications
 #   4 = Citation
 view: 4
 
+filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
