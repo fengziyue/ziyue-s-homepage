@@ -175,16 +175,16 @@
   translation: Uncategorized
 
 - id: pub_conf
-  translation: Conference paperA
+  translation: Depth Prediction
 
 - id: pub_journal
-  translation: Journal article
+  translation: Localization
 
 - id: pub_preprint
-  translation: Preprint
+  translation: Path Planning
 
 - id: pub_report
-  translation: Report
+  translation: Deep Learning
 
 - id: pub_book
   translation: Book
