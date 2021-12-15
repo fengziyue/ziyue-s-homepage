@@ -16,7 +16,7 @@ authors = ["Peng Yin", "Lingyun Xu", "Ziyue Feng", "Anton Egorov", "Bing Li"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["2", "4"]
 
 # Publication name and optional abbreviated version.
 publication = "In IEEE Transactions on Intelligent Transportation Systems"
