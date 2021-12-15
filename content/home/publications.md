@@ -18,7 +18,7 @@ subtitle = ""
   count = 1
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -63,7 +63,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
