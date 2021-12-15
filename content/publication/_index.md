@@ -8,11 +8,6 @@ title: Publications
 #   4 = Citation
 view: 2
 
-filter_default = 0
-
-[[filter]]
-  name = "All"
-  tag = "*"
 
 # Optional header image (relative to `static/img/` folder).
 header:
