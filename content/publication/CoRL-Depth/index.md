@@ -16,7 +16,7 @@ authors = ["Ziyue Feng", "Longlong Jing", "Peng Yin", "Yingli Tian", "Bing Li"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["1", "4"]
 
 # Publication name and optional abbreviated version.
 publication = "In Conference on Robot Learning "
