@@ -19,7 +19,7 @@ authors = ["Ziyue Feng", "Shitao Chen", "Yu Chen", "Nanning Zheng"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In 2018 IEEE Intelligent Vehicles Symposium"
+publication = "**[IEEE IV]** In 2018 IEEE Intelligent Vehicles Symposium"
 publication_short = "In IV2018"
 
 # Abstract and optional shortened version.
