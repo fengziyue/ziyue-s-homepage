@@ -23,7 +23,7 @@ publication = "In IEEE Transactions on Intelligent Transportation Systems"
 publication_short = "In IEEE TITS"
 
 # Abstract and optional shortened version.
-abstract = "A viewpoint invariant point cloud global localization descriptor."
+abstract = "**[IEEE T-ITS]** A viewpoint invariant point cloud global localization descriptor."
 abstract_short = "A viewpoint invariant point cloud global localization descriptor."
 
 # Featured image thumbnail (optional)
