@@ -23,7 +23,7 @@ publication = "In Conference on Robot Learning "
 publication_short = "In CoRL 2021"
 
 # Abstract and optional shortened version.
-abstract = "Use sparse LiDAR to improve depth prediction"
+abstract = "[CoRL2021]Use sparse LiDAR to improve depth prediction"
 abstract_short = "[CoRL2021]Use sparse LiDAR to improve depth prediction."
 
 # Featured image thumbnail (optional)
