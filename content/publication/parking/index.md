@@ -5,7 +5,7 @@ title = "Model-based decision making with imagination for autonomous parking"
 date = "2018-06-26"
 
 # Authors. Comma separated list, e.g. `["Ziyue Feng", "Shitao Chen", "Yu Chen", "Nanning Zheng"]`.
-authors = ["Ziyue Feng", "Shitao Chen", "Yu Chen", "Nanning Zheng"]
+authors = ["**Ziyue Feng**", "Shitao Chen", "Yu Chen", "Nanning Zheng"]
 
 # Publication type.
 # Legend:
