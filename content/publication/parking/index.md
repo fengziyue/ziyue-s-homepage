@@ -5,7 +5,7 @@ title = "Model-based decision making with imagination for autonomous parking"
 date = "2018-06-26"
 
 # Authors. Comma separated list, e.g. `["Ziyue Feng", "Shitao Chen", "Yu Chen", "Nanning Zheng"]`.
-authors = ["**Ziyue Feng**", "Shitao Chen", "Yu Chen", "Nanning Zheng"]
+authors = ["Ziyue Feng", "Shitao Chen", "Yu Chen", "Nanning Zheng"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["**Ziyue Feng**", "Shitao Chen", "Yu Chen", "Nanning Zheng"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "**[IEEE IV 2018]** In 2018 IEEE Intelligent Vehicles Symposium"
+publication = "In 2018 IEEE Intelligent Vehicles Symposium"
 publication_short = "In IV2018"
 
 # Abstract and optional shortened version.
-abstract = "Improved RRT for autonomous parking motion planning."
+abstract = "**[IEEE IV 2018]** Improved RRT for autonomous parking motion planning."
 abstract_short = "Improved RRT for autonomous parking motion planning."
 
 # Featured image thumbnail (optional)
