@@ -2,7 +2,7 @@
 title = "Disentangling Object Motion and Occlusion for Unsupervised Multi-frame Monocular Depth"
 
 # Date first published.
-date = "2022"
+date = "2022-03-29"
 
 # Authors. Comma separated list, e.g. `["Ziyue Feng", "Longlong Jing", "Peng Yin", "Yingli Tian", "Bing Li"]`.
 authors = ["Ziyue Feng", "Liang Yang", "Longlong Jing", "Haiyan Wang", "Yingli Tian", "Bing Li"]
@@ -23,8 +23,8 @@ publication = "European Conference on Computer Vision"
 publication_short = "In ECCV 2022"
 
 # Abstract and optional shortened version.
-abstract = "Conventional self-supervised monocular depth prediction methods are based on a static environment assumption, which leads to accuracy degradation in dynamic scenes due to the mismatch and occlusion problems introduced by object motions. Existing dynamic-object-focused methods only partially solved the mismatch problem at the training loss level. In this paper, we accordingly propose a novel multi-frame monocular depth prediction method to solve these problems at both the prediction and supervision loss levels. Our method, called DynamicDepth, is a new framework trained via a self-supervised cycle consistent learning scheme. A Dynamic Object Motion Disentanglement (DOMD) module is proposed to disentangle object motions to solve the mismatch problem. Moreover, novel occlusion-aware Cost Volume and Re-projection Loss are designed to alleviate the occlusion effects of object motions. Extensive analyses and experiments on the Cityscapes and KITTI datasets show that our method significantly outperforms the state-of-the-art monocular depth prediction methods, especially in the areas of dynamic objects. Our code will be made publicly available."
-abstract_short = "[ECCV2022]Solve the dynamic object problem in multi-frame monocular depth prediction."
+abstract = "[ECCV2022]Solve the dynamic object problem in multi-frame monocular depth prediction."
+abstract_short = "Conventional self-supervised monocular depth prediction methods are based on a static environment assumption, which leads to accuracy degradation in dynamic scenes due to the mismatch and occlusion problems introduced by object motions. Existing dynamic-object-focused methods only partially solved the mismatch problem at the training loss level. In this paper, we accordingly propose a novel multi-frame monocular depth prediction method to solve these problems at both the prediction and supervision loss levels. Our method, called DynamicDepth, is a new framework trained via a self-supervised cycle consistent learning scheme. A Dynamic Object Motion Disentanglement (DOMD) module is proposed to disentangle object motions to solve the mismatch problem. Moreover, novel occlusion-aware Cost Volume and Re-projection Loss are designed to alleviate the occlusion effects of object motions. Extensive analyses and experiments on the Cityscapes and KITTI datasets show that our method significantly outperforms the state-of-the-art monocular depth prediction methods, especially in the areas of dynamic objects. Our code will be made publicly available."
 
 # Featured image thumbnail (optional)
 image_preview = ""
