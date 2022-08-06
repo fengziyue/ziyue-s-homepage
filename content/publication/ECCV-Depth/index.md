@@ -41,11 +41,11 @@ projects = []
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/2203.15174.pdf"
 url_preprint = "https://arxiv.org/abs/2203.15174"
-url_code = ""
+url_code = "https://github.com/AutoAILab/DynamicDepth"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/Gg6pLvFDdc4"
 url_poster = ""
 url_source = ""
 
