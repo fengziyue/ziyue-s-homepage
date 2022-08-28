@@ -38,6 +38,6 @@ user_groups:
   - ""
 ---
 
-Ziyue Feng is a Ph.D. student at Clemson University. His research interests include Computer vision, Machine Learning, and Autonomous Driving. He is now focused on Depth Estimation and Dynamic Objects in 3D Computer Vision.
+Ziyue Feng is a Ph.D student at Clemson University, currently focusing on Depth Estimation and Dynamic Objects in 3D Computer Vision.
 
-I am actively looking for a 2023 research internship in 3D Computer Vision (Depth Prediction, 3D Reconstruction, Implicit Representation/NeRF).
+He is actively seeking a 2023 research internship in 3D Computer Vision (Depth Prediction, 3D Reconstruction, Implicit Representation/NeRF).
