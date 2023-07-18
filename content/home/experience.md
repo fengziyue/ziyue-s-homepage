@@ -17,6 +17,18 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Intern"
+  company = "OPPO US Research"
+  company_url = "https://www.innopeaktech.com/research"
+  location = "Palo Alto, CA"
+  date_start = "2023-06-12"
+  date_end = ""
+  description = """
+  * 3D Active Neural SLAM
+  """
+
 [[experience]]
   title = "Research Assistant"
   company = "Clemson University"
@@ -32,7 +44,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "MEGVII (FACE++) Research"
-  company_url = ""
+  company_url = "https://en.megvii.com/megvii_research"
   date_start = "2019-01-01"
   date_end = "2019-05-01"
   description = """
@@ -42,7 +54,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "Institute of Artifitial Intelligence and Robotics (IAIR at XJTU)"
-  company_url = ""
+  company_url = "http://www.aiar.xjtu.edu.cn"
   date_start = "2016-10-01"
   date_end = "2019-01-01"
   description = """
