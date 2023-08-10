@@ -40,4 +40,4 @@ user_groups:
 
 Ziyue Feng is a Ph.D student at Clemson University, currently focusing on Depth Estimation and Dynamic Objects in 3D Computer Vision.
 
-He will join Google this fall as an research intern working with (Clément Godard)[http://www0.cs.ucl.ac.uk/staff/c.godard/].
+He will join Google this fall as an research intern working with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai.
