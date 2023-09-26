@@ -20,11 +20,22 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
+  company = "Google"
+  company_url = "https://blog.google/technology/research/project-starline/"
+  location = "San Francisco, CA"
+  date_start = "2023-09-25"
+  date_end = ""
+  description = """
+  * Working on Google Project Starline with Dr. Clément Godard and Lynn Tsai.
+  """
+
+[[experience]]
+  title = "Research Intern"
   company = "OPPO US Research"
   company_url = "https://www.innopeaktech.com/research"
   location = "Palo Alto, CA"
   date_start = "2023-06-12"
-  date_end = ""
+  date_end = "2023-09-22"
   description = """
   * 3D Active Neural SLAM
   """
