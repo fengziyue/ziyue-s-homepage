@@ -40,6 +40,6 @@ user_groups:
 
 I am a Ph.D. student at Clemson University, focusing on geometric learning in 3D Computer Vision, specifically Depth Estimation, 3D Reconstruction, and Neural Radiance Fields.
 
-I'm thrilled to share that I'll join Google to work with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai for a research internship focused on [Project Starline](https://blog.google/technology/research/project-starline/) this fall.
+I'm taking an research internship at Google, working with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai on [Project Starline](https://blog.google/technology/research/project-starline/).
 
 
