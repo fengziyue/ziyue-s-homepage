@@ -10,8 +10,9 @@ role: Ph.D Student
 bio: My research interests include Depth Estimation, 3D Computer vision, and Autonomous Driving.
 interests:
   - Depth Estimation
-  - Dynamic Objects in 3D Computer vision
   - 3D Reconstruction
+  - NeRF & Light Field
+  - Novel View Synthesis
 social:
   - icon: linkedin-in
     icon_pack: fab
