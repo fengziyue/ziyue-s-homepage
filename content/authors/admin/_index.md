@@ -43,6 +43,6 @@ I am a Ph.D. student at Clemson University, focusing on geometric learning in 3D
 
 I'm taking a research internship at Google, working with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai on [Project Starline](https://blog.google/technology/research/project-starline/).
 
-Actively looking for internships and full-time jobs starting in Spring 2024!
+**Actively looking for internships and full-time jobs starting in Spring 2024!**
 
 
