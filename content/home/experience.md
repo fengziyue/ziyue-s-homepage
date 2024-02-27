@@ -20,6 +20,17 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
+  company = "NVIDIA Research"
+  company_url = "https://www.nvidia.com/en-us/research/"
+  location = "Santa Clara, CA"
+  date_start = "2024-04-08"
+  date_end = ""
+  description = """
+  * Will work in Dr. Orazio Gallo's group with Dr. Hang Su and Dr. Abhishek Badki in 3D Computer Vision.
+  """
+
+[[experience]]
+  title = "Research Intern"
   company = "Google"
   company_url = "https://blog.google/technology/research/project-starline/"
   location = "San Francisco, CA"
@@ -37,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2023-06-12"
   date_end = "2023-09-22"
   description = """
-  * 3D Active Neural SLAM
+  * Worked with Dr. Huangying Zhan in 3D Active Neural SLAM
   """
 
 [[experience]]
