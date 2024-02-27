@@ -56,7 +56,7 @@ url_source = ""
 # Does the content use math formatting?
 math = true
 
-tags = ["deep learning", "depth prediction"]
+tags = ["Depth Prediction"]
 
 # Does the content use source code highlighting?
 highlight = true
