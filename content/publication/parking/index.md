@@ -56,7 +56,7 @@ url_source = ""
 # Does the content use math formatting?
 math = true
 
-tags = ["path planning"]
+tags = ["Motion Planning"]
 
 # Does the content use source code highlighting?
 highlight = true
