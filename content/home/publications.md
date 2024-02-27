@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Publications"
+title = "Selected Publications"
 subtitle = ""
 
 [content]
@@ -45,16 +45,16 @@ subtitle = ""
     tag = "*"
   [[content.filter_button]]
     name = "Depth Prediction"
-    tag = "depth prediction"
+    tag = "Depth Prediction"
   [[content.filter_button]]
-    name = "Localization"
-    tag = "localization"
+    name = "3D Reconstruction"
+    tag = "3D Reconstruction"
   [[content.filter_button]]
-    name = "Path Planning"
-    tag = "path planning"
+    name = "NeRF"
+    tag = "NeRF"
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "deep learning"
+    name = "Motion Planning"
+    tag = "Motion Planning"
 
 
 [design]
