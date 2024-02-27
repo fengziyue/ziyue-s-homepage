@@ -14,6 +14,12 @@ content:
  filter_button:
   - name: All
     tag: '*'
+  - name: Depth Prediction
+    tag: 'Depth Prediction'
+  - name: 3D Reconstruction
+    tag: '3D Reconstruction'
+  - name: NeRF
+    tag: 'NeRF'
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
