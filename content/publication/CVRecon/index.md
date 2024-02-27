@@ -16,11 +16,11 @@ authors = ["Ziyue Feng", "Leon Yang", "Pengsheng Guo", "Bing Li"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Arxiv"
-publication_short = "Arxiv"
+publication = "ICCV 2023"
+publication_short = "ICCV 2023"
 
 # Abstract and optional shortened version.
 abstract = "**[ICCV 2023]** Proposed a novel cost volume based 3D geometric feature representation. Project page: https://cvrecon.ziyue.cool/"
@@ -55,7 +55,7 @@ url_source = ""
 # Does the content use math formatting?
 math = true
 
-tags = ["deep learning", "3D Reconstruction"]
+tags = ["3D Reconstruction"]
 
 # Does the content use source code highlighting?
 highlight = true
