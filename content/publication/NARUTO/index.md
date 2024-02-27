@@ -5,7 +5,7 @@ title = "NARUTO: Neural Active Reconstruction from Uncertain Target Observations
 date = "2023-11-27"
 
 # Authors. Comma separated list, e.g. `["Ziyue Feng", "Huangying Zhan", "etc..."]`.
-authors = ["Ziyue Feng", "Huangying Zhan", "..."]
+authors = ["Ziyue Feng", "Huangying Zhan", "etc..."]
 
 # Publication type.
 # Legend:
