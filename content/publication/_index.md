@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-title: Publications
+title: Selected Publications
 
 # View.
 #   1 = List
@@ -14,8 +14,6 @@ content:
  filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
