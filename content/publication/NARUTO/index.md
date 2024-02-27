@@ -4,7 +4,7 @@ title = "NARUTO: Neural Active Reconstruction from Uncertain Target Observations
 # Date first published.
 date = "2023-11-27"
 
-# Authors. Comma separated list, e.g. `["Ziyue Feng", "Huangying Zhan", "..."]`.
+# Authors. Comma separated list, e.g. `["Ziyue Feng", "Huangying Zhan", "etc..."]`.
 authors = ["Ziyue Feng", "Huangying Zhan", "..."]
 
 # Publication type.
@@ -16,14 +16,14 @@ authors = ["Ziyue Feng", "Huangying Zhan", "..."]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Submission"
-publication_short = "In Submission"
+publication = "CVPR 2024"
+publication_short = "CVPR 2024"
 
 # Abstract and optional shortened version.
-abstract = "**[In Submission]** We present NARUTO, a neural active reconstruction system that combines a hybrid neural representation with uncertainty learning, enabling high-fidelity surface reconstruction. "
+abstract = "**[CVPR 2024]** We present NARUTO, a neural active reconstruction system that combines a hybrid neural representation with uncertainty learning, enabling high-fidelity surface reconstruction. "
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -55,7 +55,7 @@ url_source = ""
 # Does the content use math formatting?
 math = true
 
-tags = ["deep learning", "3D Reconstruction", "NeRF"]
+tags = ["3D Reconstruction", "NeRF"]
 
 # Does the content use source code highlighting?
 highlight = true
