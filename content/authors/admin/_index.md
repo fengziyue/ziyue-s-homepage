@@ -41,7 +41,7 @@ email: zfeng@clemson.edu
 user_groups:
   - ""
 ---
-I am a Senior Machine Learning Engineer at Matterport, focusing on 3D Computer Vision.
+I am a Senior Machine Learning Engineer at [Matterport])(https://matterport.com), focusing on 3D Computer Vision.
 
 During my Ph.D. study at Clemson University, I was focused on geometric learning in 3D Computer Vision, specifically Depth Estimation, 3D Reconstruction, and Neural Radiance Fields.
 
