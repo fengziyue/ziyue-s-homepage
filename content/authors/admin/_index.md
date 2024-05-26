@@ -13,6 +13,7 @@ interests:
   - 3D Reconstruction
   - NeRF & Light Field
   - Novel View Synthesis
+  - Generative Modeling
 social:
   - icon: linkedin-in
     icon_pack: fab
