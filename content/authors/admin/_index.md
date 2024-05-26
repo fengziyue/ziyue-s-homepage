@@ -41,13 +41,11 @@ email: zfeng@clemson.edu
 user_groups:
   - ""
 ---
+I am a Senior Machine Learning Engineer at Matterport, focusing on 3D Computer Vision.
 
-I am a Ph.D. student at Clemson University, focusing on geometric learning in 3D Computer Vision, specifically Depth Estimation, 3D Reconstruction, and Neural Radiance Fields.
+During my Ph.D. study at Clemson University, I was focused on geometric learning in 3D Computer Vision, specifically Depth Estimation, 3D Reconstruction, and Neural Radiance Fields.
 
-I'm taking a research internship at **Google**, working with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai on [Project Starline](https://blog.google/technology/research/project-starline/).
+Prior to Matterport, I took a research internship at **Google**, worked with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai on [Project Starline](https://blog.google/technology/research/project-starline/).
 
-I will start another internship at **NVIDIA Research** this spring, join [Orazio Gallo](https://research.nvidia.com/person/orazio-gallo)'s group and work with [Hang Su](https://research.nvidia.com/person/hang-su) and [Abhishek Badki](https://research.nvidia.com/person/abhishek-badki) in 3D Computer Vision.
-
-**Actively looking for full-time research scientist/engineer jobs starting in Summer 2024!**
 
 
