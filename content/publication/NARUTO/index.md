@@ -23,7 +23,7 @@ publication = "CVPR 2024"
 publication_short = "CVPR 2024"
 
 # Abstract and optional shortened version.
-abstract = "**[CVPR 2024]** We present NARUTO, a neural active reconstruction system that combines a hybrid neural representation with uncertainty learning, enabling high-fidelity surface reconstruction. "
+abstract = "**[CVPR 2024]** NeRF style active reconstruction system with uncertainty learning. [Project page](https://oppo-us-research.github.io/NARUTO-website/). "
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -38,14 +38,14 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
+url_pdf = "https://arxiv.org/pdf/2402.18771"
+url_preprint = "https://arxiv.org/abs/2402.18771"
+url_code = "https://github.com/oppo-us-research/NARUTO"
 url_dataset = ""
-url_project = ""
+url_project = "https://oppo-us-research.github.io/NARUTO-website/"
 url_slides = ""
-url_video = ""
-url_poster = ""
+url_video = "https://www.youtube.com/watch?v=SsWdB-_5XM0"
+url_poster = "https://github.com/oppo-us-research/NARUTO-website/blob/main/static/images/cvpr24_poster_naruto.png"
 url_source = ""
 
 # Custom links (optional).
