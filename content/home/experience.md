@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Intern"
-  company = "NVIDIA Research"
-  company_url = "https://www.nvidia.com/en-us/research/"
-  location = "Santa Clara, CA"
-  date_start = "2024-04-08"
+  title = "Senior Machine Learning Engineer"
+  company = "Matterport"
+  company_url = "https://matterport.com"
+  location = "Sunnyvale, CA"
+  date_start = "2024-04-01"
   date_end = ""
   description = """
-  * Will work in Dr. Orazio Gallo's group with Dr. Hang Su and Dr. Abhishek Badki in 3D Computer Vision.
+  * Working in 3D Computer Vision and Generative AI.
   """
 
 [[experience]]
