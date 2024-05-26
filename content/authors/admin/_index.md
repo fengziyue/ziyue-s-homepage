@@ -41,11 +41,11 @@ email: zfeng@clemson.edu
 user_groups:
   - ""
 ---
-I am a Senior Machine Learning Engineer at [Matterport])(https://matterport.com), focusing on 3D Computer Vision.
+I am a Senior Machine Learning Engineer at [Matterport](https://matterport.com), focusing on 3D Computer Vision.
 
 During my Ph.D. study at Clemson University, I was focused on geometric learning in 3D Computer Vision, specifically Depth Estimation, 3D Reconstruction, and Neural Radiance Fields.
 
-Prior to Matterport, I took a research internship at **Google**, worked with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai on [Project Starline](https://blog.google/technology/research/project-starline/).
+Prior to Matterport, I took a research internship at Google, worked with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai on [Project Starline](https://blog.google/technology/research/project-starline/).
 
 
 
