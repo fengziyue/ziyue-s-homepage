@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   company_url = "https://blog.google/technology/research/project-starline/"
   location = "San Francisco, CA"
   date_start = "2023-09-25"
-  date_end = ""
+  date_end = "2023-12-29"
   description = """
   * Working on Google Project Starline with Dr. Clément Godard and Lynn Tsai.
   """
