@@ -1,19 +1,18 @@
 ---
 organizations:
-  - name: Clemson University
+  - name: Apple
     url: ""
 superuser: true
 authors:
   - admin
 title: Ziyue Feng
-role: Ph.D Student
-bio: My research interests include Depth Estimation, 3D Computer vision, and Autonomous Driving.
+role: Multimodal Generative Modeling Researcher
+bio: My research interests include GenAI, 3D Computer vision, and Autonomous Driving.
 interests:
+  - Video Generation
   - Depth Estimation
   - 3D Reconstruction
   - NeRF & Light Field
-  - Novel View Synthesis
-  - Generative Modeling
 social:
   - icon: linkedin-in
     icon_pack: fab
@@ -42,11 +41,11 @@ email: zfeng@clemson.edu
 user_groups:
   - ""
 ---
-I am a Senior Machine Learning Engineer at [Matterport](https://matterport.com), focusing on 3D Computer Vision.
+I am a Video Machine Learning Researcher at [Apple](https://apple.com), focusing on Generative Modeling.
 
 During my Ph.D. study at Clemson University, I was focused on geometric learning in 3D Computer Vision, specifically Depth Estimation, 3D Reconstruction, and Neural Radiance Fields.
 
-Prior to Matterport, I took a research internship at Google, worked with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai on [Project Starline](https://blog.google/technology/research/project-starline/).
+Prior to Apple, I took a research internship at Google, worked with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai on [Project Starline](https://blog.google/technology/research/project-starline/).
 
 
 
