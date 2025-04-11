@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Computer Vision
       institution: Clemson University
-      year: 2019 - Present
+      year: 2019 - 2024
     - course: BEng in Computer Science
       institution: Xi'an Jiaotong University
       year: 2015 - 2019
