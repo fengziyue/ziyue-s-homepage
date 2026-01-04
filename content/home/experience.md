@@ -20,14 +20,14 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Video Machine Learning Researcher"
+  title = "Machine Learning Engineer — World & Spatiotemporal Modeling"
   company = "Apple"
   company_url = "https://apple.com"
-  location = "Cupertino, CA"
+  location = "San Diego, CA"
   date_start = "2024-10-28"
   date_end = ""
   description = """
-  * Working in multimodal generative modeling.
+  * Conduct research on learning-based world and spatiotemporal modeling, developing generative and predictive models that enable machines to represent, understand, and forecast real-world environments from visual data, with an emphasis on geometric consistency, temporal coherence, and physical plausibility.
   """
 
 
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2024-04-01"
   date_end = "2024-08-10"
   description = """
-  * Working in 3D Computer Vision and Generative AI.
+  * Worked on learning-based large-scale 3D reconstruction and spatial data systems for digitizing and modeling real-world physical environments, advancing robust scene representation and geometric understanding in real-world deployments.
   """
 
 [[experience]]
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_start = "2023-09-25"
   date_end = "2023-12-29"
   description = """
-  * Working on Google Project Starline with Dr. Clément Godard and Lynn Tsai.
+  * Conducted advanced research on learning-based approaches to visual computing and modeling of complex real-world environments, focusing on neural representations supporting consistent geometric and spatiotemporal understanding.
   """
 
 [[experience]]
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   date_start = "2023-06-12"
   date_end = "2023-09-22"
   description = """
-  * Worked with Dr. Huangying Zhan in 3D Active Neural SLAM
+  * Developed active perception and NeRF-based SLAM methods enabling embodied agents to explore, localize, reconstruct, and plan in unknown environments. Published at CVPR 2024.
   """
 
 [[experience]]
@@ -72,8 +72,9 @@ date_format = "Jan 2006"
   date_start = "2019-09-05"
   date_end = ""
   description = """
-  * Computer Vision
-  * Autonomous Driving
+  * Proposed a novel 3D geometric feature learning paradigm for neural reconstruction, advancing learning-based world representation through improved cost-volume reasoning (ICCV 2023).
+  * Developed self-supervised multi-frame depth estimation frameworks addressing object motion and occlusion, enabling temporally consistent depth prediction in dynamic scenes (ECCV 2022).
+  * Introduced learning-based multi-modal depth modeling integrating sparse LiDAR with monocular vision, advancing world modeling for autonomous systems (CoRL 2021).
   """
 
 [[experience]]
@@ -83,8 +84,8 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2019-05-01"
   description = """
-  * Computer Vision
-  * Advanced Driving Asistant Systems"""
+  * Early Research in Learning-based Perception: Conducted early research on learning-based gaze estimation, investigating model generalization under domain shift in real-world visual sensing scenarios.
+    """
 
 [[experience]]
   title = "Research Intern"
@@ -93,7 +94,6 @@ date_format = "Jan 2006"
   date_start = "2016-10-01"
   date_end = "2019-01-01"
   description = """
-  * Computer Vision
-  * Motion Planning"""
+  * Autonomous Parking: Proposed a model-based decision-making framework for autonomous parking, including an imagination-based module for RRT path planning and kinematic-aware trajectory refinement. Published at IEEE IV 2018."""
 
 +++
