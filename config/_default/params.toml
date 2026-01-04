@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zfeng@clemson.edu"
+email = "ziyue@apple.com"
 phone = "+1 (864)-887-8416"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "4 Research Drive", city = "Greenville", region = "SC", postcode = "29607", country = "United States", country_code = "US"}
+address = {street = "", city = "San Diego", region = "CA", postcode = "", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.814902", longitude = "-82.325488"}
+coordinates = {latitude = "", longitude = ""}
 
 
 # Contact links
