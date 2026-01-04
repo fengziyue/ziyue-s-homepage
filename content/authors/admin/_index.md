@@ -6,13 +6,11 @@ superuser: true
 authors:
   - admin
 title: Ziyue Feng
-role: Multimodal Generative Modeling Researcher
-bio: My research interests include GenAI, 3D Computer vision, and Autonomous Driving.
+role: World & Spatiotemporal Modeling
 interests:
-  - Video Generation
-  - Depth Estimation
-  - 3D Reconstruction
-  - NeRF & Light Field
+  - World and spatiotemporal modeling
+  - Learning-based 3D reconstruction & scene representation
+  - Active perception for autonomous systems
 social:
   - icon: linkedin-in
     icon_pack: fab
@@ -37,15 +35,13 @@ education:
     - course: BEng in Computer Science
       institution: Xi'an Jiaotong University
       year: 2015 - 2019
-email: zfeng@clemson.edu
+email: fzyue.jack@gmail.com
 user_groups:
   - ""
 ---
-I am a Video Machine Learning Researcher at [Apple](https://apple.com), focusing on Generative Modeling.
+I am a Machine Learning Engineer at Apple working on world and spatiotemporal modeling, with a research focus on enabling machines to represent, understand, and predict real-world physical environments. My work centers on learning-based models that capture geometric structure, temporal dynamics, and physical consistency from visual data.
 
-During my Ph.D. study at Clemson University, I was focused on geometric learning in 3D Computer Vision, specifically Depth Estimation, 3D Reconstruction, and Neural Radiance Fields.
-
-Prior to Apple, I took a research internship at Google, worked with [Clément Godard](http://www0.cs.ucl.ac.uk/staff/c.godard/) and Lynn Tsai on [Project Starline](https://blog.google/technology/research/project-starline/).
+Across academia and industry, my research spans 3D reconstruction, active perception, and generative world models, with applications in autonomous systems, robotics, and spatial computing. I have contributed original research published in leading computer vision and robotics venues, and actively serve as a peer reviewer for top-tier AI and robotics conferences and journals.
 
 
 
